@@ -246,8 +246,6 @@ footer{
     border-bottom: 3px solid #af20d3;
     padding-bottom: 5px;
     margin-bottom: 10px;
-    columns: auto;
-    align-items: center;
 }
 .content-foo p{
     color: #ccc;
